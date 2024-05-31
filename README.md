@@ -14,7 +14,7 @@ fork本项目，到vercel点击构建,环境变量填写参数，在vercel该项
 
 #### 数据库配置详情
 
-图片步骤:
+图片步骤如下:
 > ![config](http://mmbiz.qpic.cn/mmbiz_jpg/6q5SCtonIfFYZpvZdOUbibQBicXkllyO3K6XOp2zUv6PE3e1tqpfYA7wSYRWByZX9Wibibq9PDr6ML4iaiacTWNAaI9Q/0)
 
 更多配置[config](conf/.env.sample)
